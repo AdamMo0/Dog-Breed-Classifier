@@ -9,3 +9,13 @@ Datasets that were used in this project:-
 - [matplotlib](https://matplotlib.org/)
 - [cv2](https://pypi.org/project/opencv-python/)
 - [torch](https://pypi.org/project/torchvision/)
+
+
+First using the opencv library to detect the human faces
+Here is an example
+![Pic1](pic1.png)     
+
+## Tried different pretrained models like vgg16, vgg19, and alexnet                                                    
+
+Then decided to build my own CNN with
+![Pic2](pic2.png)
