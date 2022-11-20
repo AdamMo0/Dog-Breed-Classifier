@@ -19,3 +19,14 @@ Here is an example
 
 Then decided to build my own CNN with
 ![Pic2](pic2.png)
+
+Not the best results
+
+## Using transfer learning which lead to better results
+![Pic3](pic3.png)
+
+transfer learning showed better results and adding more epochs can lead much high accuracy
+
+# Final results from the models
+![Pic4](pic4.png)
+![Pic5](pic5.png)
